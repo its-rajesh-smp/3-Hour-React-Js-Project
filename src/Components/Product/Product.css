@@ -1,0 +1,10 @@
+.Product-div{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: aliceblue;
+    margin: 5px;
+}
+.Product-div button{
+    padding: 0px 15px;
+}
